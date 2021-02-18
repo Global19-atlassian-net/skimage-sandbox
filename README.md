@@ -1,3 +1,5 @@
+This proof-of-concept project is **no longer active**.  Nowadays, there are other ways to achieve the same, such as [thebe](https://github.com/executablebooks/thebe) which runs using `mybinder.org` infrastructure.
+
 ## About
 In short, this setup listens for code execution requests, processes and returns the output. To do this it spins up Docker containers in the back-end, all execution takes place within it and the output is returned in a legible format to the front-end which requested it in the first place.
 
